@@ -16,7 +16,7 @@ The Solution: A portable device/container allowing you to transport some spices 
 
 1. Durable and Safe Materials: Crafted to withstand the elements, this spice dispenser is made from durable, weather-resistant materials, making it an essential tool for outdoor adventurers and travel enthusiasts. It is also leak proof to ensure you never have to worry about spills.
 2. Customizable Appearance: Express your style with customizable dispenser exteriors. Choose colors and patterns to match your gear or mood, making your spice dispenser as unique as your culinary tastes. You can even choose the perfect labels.
-3. Mobile App with Reccomendations : Enhance your spicing skills with a connected mobile app. Track your usage, receive refill alerts, and discover new spices with recommendations tailored to your taste preferences and past choices.
+3. Mobile App with Reccomendations: Enhance your spicing skills with a connected mobile app. Track your usage, receive refill alerts, and discover new spices with recommendations tailored to your taste preferences and past choices.
 
 ## Current Feature Stories
 
