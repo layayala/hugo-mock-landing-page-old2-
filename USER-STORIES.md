@@ -6,14 +6,17 @@ The problem: When traveling or eating out, sometimes food is not spiced to your 
 
 The Solution: A portable device/container allowing you to transport some spices wherever you go. This has auto dispensers built in, so you don’t have to shake the spice onto the food physically, and it can be easily distributed. You can put exchangeable cartridges into it based on your spice preferences. Think of this almost like a multicolor ballpoint pen - you select which spice you want, and there is a central dispenser that dispenses it. This is highly portable and can be clipped onto a keyring, put in a purse or a backpack, or even clipped onto a belt loop. This can also be used for sauces and will be leak proof. This could even be used in general cooking.
 
-## Displayed Features
+## Displayed Features with Images
 
 1. Compact and Portable Design: Designed with mobility in mind, the dispenser is sleek, compact, and can be attached to a keyring, clipped to a belt loop, or tucked into a purse. Never leave home without your favorite flavors again.
 2. Modular Spice Cartridges: Swap flavors as quickly as your cravings change with interchangeable spice cartridges. Designed for versatility, these cartridges let you switch from savory to sweet or spicy in seconds, ensuring every meal is a gourmet experience.
 3. Precision Dispensing: Control your culinary creations with precision dispensing, allowing you to add the exact amount of spice needed. Whether it’s a pinch or a dash, achieve consistent flavoring with each use, perfect for the health-conscious and culinary perfectionists alike.
-4. Durable and Safe Materials: Crafted to withstand the elements, this spice dispenser is made from durable, weather-resistant materials, making it an essential tool for outdoor adventurers and travel enthusiasts. It is also leak proof to ensure you never have to worry about spills.
-5. Customizable Appearance: Express your style with customizable dispenser exteriors. Choose colors and patterns to match your gear or mood, making your spice dispenser as unique as your culinary tastes. You can even choose the perfect labels.
-6. Mobile App with Reccomendations : Enhance your spicing skills with a connected mobile app. Track your usage, receive refill alerts, and discover new spices with recommendations tailored to your taste preferences and past choices.
+
+## Rest of Displayed Features
+
+1. Durable and Safe Materials: Crafted to withstand the elements, this spice dispenser is made from durable, weather-resistant materials, making it an essential tool for outdoor adventurers and travel enthusiasts. It is also leak proof to ensure you never have to worry about spills.
+2. Customizable Appearance: Express your style with customizable dispenser exteriors. Choose colors and patterns to match your gear or mood, making your spice dispenser as unique as your culinary tastes. You can even choose the perfect labels.
+3. Mobile App with Reccomendations : Enhance your spicing skills with a connected mobile app. Track your usage, receive refill alerts, and discover new spices with recommendations tailored to your taste preferences and past choices.
 
 ## Current Feature Stories
 
